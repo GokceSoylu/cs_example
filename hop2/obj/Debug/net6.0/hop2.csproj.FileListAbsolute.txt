@@ -1,0 +1,15 @@
+/Users/necmiyesoyla/cs_example_love/hop2/bin/Debug/net6.0/hop2
+/Users/necmiyesoyla/cs_example_love/hop2/bin/Debug/net6.0/hop2.deps.json
+/Users/necmiyesoyla/cs_example_love/hop2/bin/Debug/net6.0/hop2.runtimeconfig.json
+/Users/necmiyesoyla/cs_example_love/hop2/bin/Debug/net6.0/hop2.dll
+/Users/necmiyesoyla/cs_example_love/hop2/bin/Debug/net6.0/hop2.pdb
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.csproj.AssemblyReference.cache
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.AssemblyInfoInputs.cache
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.AssemblyInfo.cs
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.csproj.CoreCompileInputs.cache
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.dll
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/refint/hop2.dll
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.pdb
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/hop2.genruntimeconfig.cache
+/Users/necmiyesoyla/cs_example_love/hop2/obj/Debug/net6.0/ref/hop2.dll
