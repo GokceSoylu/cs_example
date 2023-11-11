@@ -1,0 +1,15 @@
+/Users/necmiyesoyla/cs_example_love/array_list/bin/Debug/net6.0/array_list
+/Users/necmiyesoyla/cs_example_love/array_list/bin/Debug/net6.0/array_list.deps.json
+/Users/necmiyesoyla/cs_example_love/array_list/bin/Debug/net6.0/array_list.runtimeconfig.json
+/Users/necmiyesoyla/cs_example_love/array_list/bin/Debug/net6.0/array_list.dll
+/Users/necmiyesoyla/cs_example_love/array_list/bin/Debug/net6.0/array_list.pdb
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.csproj.AssemblyReference.cache
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.AssemblyInfoInputs.cache
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.AssemblyInfo.cs
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.csproj.CoreCompileInputs.cache
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.dll
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/refint/array_list.dll
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.pdb
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/array_list.genruntimeconfig.cache
+/Users/necmiyesoyla/cs_example_love/array_list/obj/Debug/net6.0/ref/array_list.dll

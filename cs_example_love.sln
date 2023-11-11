@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denem_1", "denem_1\denem_1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hop2", "hop2\hop2.csproj", "{0A1F8217-2A4A-4B36-8B90-A9F10FCDFCEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_list", "array_list\array_list.csproj", "{79F74193-B7B4-47C5-9041-F529ADD989A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0A1F8217-2A4A-4B36-8B90-A9F10FCDFCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A1F8217-2A4A-4B36-8B90-A9F10FCDFCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A1F8217-2A4A-4B36-8B90-A9F10FCDFCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F74193-B7B4-47C5-9041-F529ADD989A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F74193-B7B4-47C5-9041-F529ADD989A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F74193-B7B4-47C5-9041-F529ADD989A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F74193-B7B4-47C5-9041-F529ADD989A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
