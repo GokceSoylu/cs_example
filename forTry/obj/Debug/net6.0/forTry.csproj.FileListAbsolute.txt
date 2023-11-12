@@ -1,0 +1,15 @@
+/Users/necmiyesoyla/cs_example_love/forTry/bin/Debug/net6.0/forTry
+/Users/necmiyesoyla/cs_example_love/forTry/bin/Debug/net6.0/forTry.deps.json
+/Users/necmiyesoyla/cs_example_love/forTry/bin/Debug/net6.0/forTry.runtimeconfig.json
+/Users/necmiyesoyla/cs_example_love/forTry/bin/Debug/net6.0/forTry.dll
+/Users/necmiyesoyla/cs_example_love/forTry/bin/Debug/net6.0/forTry.pdb
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.csproj.AssemblyReference.cache
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.AssemblyInfoInputs.cache
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.AssemblyInfo.cs
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.csproj.CoreCompileInputs.cache
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.dll
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/refint/forTry.dll
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.pdb
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/forTry.genruntimeconfig.cache
+/Users/necmiyesoyla/cs_example_love/forTry/obj/Debug/net6.0/ref/forTry.dll

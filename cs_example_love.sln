@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_list", "array_list\ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hash_table", "hash_table\hash_table.csproj", "{F7908431-8DB3-49E7-BFBB-D9F6F1DA3705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hash_table2", "hash_table2\hash_table2.csproj", "{8E17436D-8D7E-4C0E-B77C-E68582FD5A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forTry", "forTry\forTry.csproj", "{CE9FFDAE-598E-4203-B25B-44C1998C29B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{F7908431-8DB3-49E7-BFBB-D9F6F1DA3705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7908431-8DB3-49E7-BFBB-D9F6F1DA3705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7908431-8DB3-49E7-BFBB-D9F6F1DA3705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E17436D-8D7E-4C0E-B77C-E68582FD5A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E17436D-8D7E-4C0E-B77C-E68582FD5A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E17436D-8D7E-4C0E-B77C-E68582FD5A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E17436D-8D7E-4C0E-B77C-E68582FD5A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9FFDAE-598E-4203-B25B-44C1998C29B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9FFDAE-598E-4203-B25B-44C1998C29B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9FFDAE-598E-4203-B25B-44C1998C29B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9FFDAE-598E-4203-B25B-44C1998C29B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
