@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-
+//! cmd k c toplu yorum satırına dönüştürür
 namespace array_list;
 class Program
 {
@@ -18,36 +18,14 @@ class Program
 
         Console.WriteLine(arr.Count);
         Console.WriteLine(arr.Capacity);
-        Console.WriteLine("cıkarmada once stır 21");
-        try{
-            for(int i=3;i<6;i++ )
-                arr.Remove(index+i);
-        }
-        catch(Exception e)
-        {
-            Console.WriteLine(e.Message);
+      
+    
+        for(int i=0;i<3;i++ )
+            arr.RemoveAt(3);
 
-        }
-        Console.WriteLine("cıkarm aişlemi bitti");
-        try{
-            foreach(var e in arr)
-            {
-                Console.WriteLine(e);
-            }
-        }
-        catch(Exception e)
-        {
-            Console.WriteLine(e.Message);
-        }
-        Console.WriteLine(" yazdırma bitti");
-        try
-        {
-            arr.Sort();
-        }
-        catch(Exception e)
-        {
-            Console.WriteLine(e.Message);
-        }
+        foreach(var e in arr)
+            Console.WriteLine(e);
+        arr.Sort();
         arr.RemoveAt(0);
         arr.Reverse();
         arr.RemoveAt(0);
@@ -57,17 +35,18 @@ class Program
         ArrayList  arr2=new ArrayList();
         arr2.Add("derya");
         arr2.Add("kemal");
-        arr2.Add("saçamalık");
+        arr2.Add("saçmalık");
+
 
         ArrayList arr3=new ArrayList();
         arr3.Add("kuzu");
         arr3.Add("mustafa");
 
         arr.AddRange(arr2);
-        arr.InsertRange((arr.IndexOf("derya"))+1,arr3);
-
-        arr.Insert((arr.IndexOf("saçmalık")),"dünya");
-        if(arr.Contains("sacmalık"))
+        arr.InsertRange((arr.IndexOf("derya")),arr3);
+        Console.WriteLine(arr.Capacity);
+        arr.Insert(arr.IndexOf("saçmalık"),"dünya");//! e
+        if(arr.Contains("dünya"))
         {
             foreach(var e in arr)
             {
