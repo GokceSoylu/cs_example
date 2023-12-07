@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forTry", "forTry\forTry.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hash_table4", "hash_table4\hash_table4.csproj", "{02318781-F8D1-4660-9FED-B05C92F11D3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{46137A49-ECCF-44F1-98F6-9B44006B3FA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{02318781-F8D1-4660-9FED-B05C92F11D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02318781-F8D1-4660-9FED-B05C92F11D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02318781-F8D1-4660-9FED-B05C92F11D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46137A49-ECCF-44F1-98F6-9B44006B3FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46137A49-ECCF-44F1-98F6-9B44006B3FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46137A49-ECCF-44F1-98F6-9B44006B3FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46137A49-ECCF-44F1-98F6-9B44006B3FA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

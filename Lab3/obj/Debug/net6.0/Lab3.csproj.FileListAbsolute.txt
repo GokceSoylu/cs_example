@@ -1,0 +1,5 @@
+/Users/necmiyesoyla/cs_example_love/Lab3/obj/Debug/net6.0/Lab3.csproj.AssemblyReference.cache
+/Users/necmiyesoyla/cs_example_love/Lab3/obj/Debug/net6.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/necmiyesoyla/cs_example_love/Lab3/obj/Debug/net6.0/Lab3.AssemblyInfoInputs.cache
+/Users/necmiyesoyla/cs_example_love/Lab3/obj/Debug/net6.0/Lab3.AssemblyInfo.cs
+/Users/necmiyesoyla/cs_example_love/Lab3/obj/Debug/net6.0/Lab3.csproj.CoreCompileInputs.cache
